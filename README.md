@@ -10,13 +10,9 @@
  - 🧑‍💼 **Past Experience**: 
  - 🏅 **Awards**: 
  
- ### GitHub Stats
- 
- [![Abhay's GitHub stats](https://github-readme-stats.vercel.app/api?username=vishnugrao)](https://github.com/anuraghazra/github-readme-stats)
- 
  ### LeetCode Stats
  
- ![LeetCode Stats](https://leetcard.jacoblin.cool/immortalabdu413?theme=light&font=Geostar&ext=heatmap)
+ ![LeetCode Stats](https://leetcard.jacoblin.cool/immortalabdu413?theme=dark&font=Buda&ext=heatmap)
  
  ### Projects
  
