@@ -1,4 +1,4 @@
-# Vishnu Rao
+# Abhay Yarasi
  
  ## Welcome to My GitHub Profile!
  
@@ -16,7 +16,7 @@
  
  ### LeetCode Stats
  
- ![LeetCode Stats](https://leetcard.jacoblin.cool/vishnugrao?theme=dark&font=Buda&ext=heatmap)
+ ![LeetCode Stats](https://leetcard.jacoblin.cool/immortalabdu413?theme=light&font=Geostar&ext=heatmap)
  
  ### Projects
  
@@ -27,7 +27,7 @@
  - **Languages**: Java, Python, HTML/CSS
  - **Tools**: Git/GitHub, VS Code, MATLAB
  - **Current Stack**: 
- - **Transferable Skills**: Teamwork, Leadership, Interdisciplinary Engineering, Creativity, Critical Thinking
+ - **Transferable Skills**: Teamwork, Leadership, Interdisciplinary Engineering, Creativity, Critical Thinking, Management
  
  ### Get in Touch
  
